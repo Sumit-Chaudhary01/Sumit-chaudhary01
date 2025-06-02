@@ -1,11 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Chaudhary — Data Analyst | SQL | Python | Power BI
 
-I'm [Sumit Chaudhary] — a passionate developer currently learning **[your tech stack]**.
+I'm a passionate **Data Analyst** who enjoys exploring data, generating insights, and solving business problems using data-driven methods. I'm currently expanding my skills in **Python, SQL, Excel, Power BI**, and **statistics**.
 
-- 🔭 I’m working on: [project or idea]
-- 🌱 I’m currently learning: [language/tool]
-- 💬 Ask me about: [topics you know well]
-- 📫 How to reach me: [sc3338989@gmail.com]
-- ⚡ Fun fact: [something cool or personal]
+## 🔍 What I Do
+- 📊 Analyze data to uncover trends and patterns
+- 🐍 Write Python scripts for data cleaning and analysis
+- 🗂️ Create dashboards and reports in Power BI
+- 🧠 Apply statistical thinking to real-world problems
 
-Let's connect! 🚀
+## 🚀 Skills
+- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib)
+- **Data Tools**: Excel, Power BI, Google Sheets
+- **Databases**:  PostgreSQL
+- **Concepts**: Data cleaning, EDA, Visualization, KPIs, Reporting
+
+## 🧠 Currently Learning
+- Python for Data Science
+- Machine Learning Basics
+- Advanced SQL queries
+- Real-world projects with public datasets
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumit-chaudhary-295334230)
+- ✉️ Email: sc3338989@gmail.com
+
+---
+
+⚡ *"In God we trust. All others must bring data." – W. Edwards Deming*
