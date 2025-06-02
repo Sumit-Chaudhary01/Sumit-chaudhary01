@@ -20,7 +20,7 @@ I'm a passionate **Data Analyst** who enjoys exploring data, generating insights
 - Advanced SQL queries
 - Real-world projects with public datasets
 
-## 📫 Let's Connect
+## 📫 Let's Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumit-chaudhary-295334230)
 - ✉️ Email: sc3338989@gmail.com
 
